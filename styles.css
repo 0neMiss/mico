@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+
+.card-front {
+  background-color: blue;
+  height: 200px;
+  position: absolute;
+  width: 200px;
+}
+
+.card-back {
+  background-color: green;
+  height: 200px;
+  position: absolute;
+  width: 200px;
+}
